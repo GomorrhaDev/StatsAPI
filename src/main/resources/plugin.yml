@@ -5,3 +5,7 @@ api-version: 1.20
 authors: [ Gomorrha, Melays ]
 description: Melays StatsAPI in Minecraft 1.20.1
 website: https://gomorrha.dev
+commands:
+   statsapi:
+      description: StatsAPI Info Command
+      usage: Syntax error! Simply type /statsapi to use this command.
